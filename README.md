@@ -4,6 +4,10 @@
 
 ## Overview
 
+WordPress has become the most popular and used CMS in the world and it's no secret. We will be covering up each topic individually so it's easier for you to continue from where you had left off.
+
+In this guide, we will be helping you build your sites faster with LEMP stack.
+
 ## Table of Contents <!-- omit in toc -->
 
 - [Superfast LEMP Configuration for WordPress](#superfast-lemp-configuration-for-wordpress)
